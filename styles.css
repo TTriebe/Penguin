@@ -46,6 +46,9 @@ body {
   margin-top: 75px;
   position: relative;
   z-index: 4;
+  transition: 1s;
+  transition-timing-function:ease-in-out;
+  transition-delay: 0ms;
 }
 .penguin *{
     position: absolute;
