@@ -224,4 +224,5 @@ cursor: not-allowed;
   position: absolute;
   z-index: 3;
   margin-top: -58px;
+  height:calc(100vh - 300px) ;
 }
