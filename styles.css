@@ -180,8 +180,13 @@ body {
     right: -5%;
     transform: rotate(-45deg);
 }
-@keyframes wave{
-    
+@keyframes wave {
+    10%{
+        transform: rotate(110deg) scaleX(-1);
+    }
+    20%{}
+    30%{}
+    40%{}
 }
 .foot{
     width: 15%;
