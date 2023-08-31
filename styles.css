@@ -159,6 +159,11 @@ body {
     border-radius: 0% 0% 100% 100%;
     opacity: 70%;
 }
+.foot{
+    width: 15%;
+    height: 30%;
+    background-color: orange;
+}
 .ground {
   width: 100vw;
   height: 400px;
